@@ -64,7 +64,7 @@ df_resampled
 # In[11]:
 
 
-df_resampled.plot.line()
+# df_resampled.plot.line()
 
 
 # In[12]:
