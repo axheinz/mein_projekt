@@ -61,12 +61,6 @@ zeilen = data ['resultTables'][0]['totalNumberOfRows']
 df_liste = []
 
 
-# In[ ]:
-
-
-
-
-
 # In[119]:
 
 
@@ -172,12 +166,6 @@ df_deepsea_abheute = df_deepsea[df_deepsea['schiffabfertigung.ankunftsollzeitpun
 
 new_str = [str(x) for x in df_deepsea_abheute15['schiffabfertigung.schiffsname']]
 new_str
-
-
-# In[142]:
-
-
-get_ipython().system('pip install pymsteams')
 
 
 # In[143]:
